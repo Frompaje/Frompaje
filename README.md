@@ -1,4 +1,4 @@
-🌙• Sobre mim: <br>
+📄• Sobre mim: <br>
 🤠• Meu nome é Yan Edwards  <br>
 🐣• Tenho 23 anos <br>
 🎙• Estudando inglês (Autodidata) <br>
