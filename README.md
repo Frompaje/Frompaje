@@ -25,3 +25,4 @@
 ―――――――――――――――――――――――――――――――――――――――――<br>
 📈•Historido do meu GITHUB <br>
 ![Paje GitHub stats](https://github-readme-stats.vercel.app/api?username=Frompaje&show_icons=true&theme=dark) <br>
+😁Estudando para gerar acessibilidade para as pessoas 😁
