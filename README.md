@@ -21,7 +21,9 @@
 📚•Tenho Interesse:<br>
 ![JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>
+![JS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 ―――――――――――――――――――――――――――――――――――――――――<br>
 📈•Historido do meu GITHUB: <br>
 ![Paje GitHub stats](https://github-readme-stats.vercel.app/api?username=Frompaje&show_icons=true&theme=dark) <br>
