@@ -17,6 +17,7 @@
 <h1 >📝⁝ Estudando<br></h1>
   
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 
 <h1 >📚⁝ Tenho Interesse<br></h1>
