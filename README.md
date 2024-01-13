@@ -3,7 +3,6 @@
 🎓› Faço faculdade de Analise e desenvolvimento de sistemas na Descomplica (1° Período) <br>
 🎓› Cursando Full-Stack na Rocketseat <br>
 🌎› Manaus-Amazonas<br>
-🌐Meu website›https://frompaje-my-website.vercel.app/  <br>
 ›Com a faculdade EAD, posso estudar a qualquer momento e em qualquer lugar. Atualmente, dedico 100% do meu tempo aos estudos.
 <h1  >💬⁝ Contatos <br> </h1>
 
