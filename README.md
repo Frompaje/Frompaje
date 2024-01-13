@@ -3,7 +3,8 @@
 🎓› Faço faculdade de Analise e desenvolvimento de sistemas na Descomplica (1° Período) <br>
 🎓› Cursando Full-Stack na Rocketseat <br>
 🌎› Manaus-Amazonas<br>
-
+🌐Meu website›https://frompaje-my-website.vercel.app/  <br>
+›Com a faculdade EAD, posso estudar a qualquer momento e em qualquer lugar. Atualmente, dedico 100% do meu tempo aos estudos.
 <h1  >💬⁝ Contatos <br> </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
