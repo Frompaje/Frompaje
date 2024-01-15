@@ -1,6 +1,6 @@
 <h1 >Yan Edwards - DEV FRONT END ツ </h1>
 🐭› Tenho 23 anos <br>
-🎓› Faço faculdade de Analise e desenvolvimento de sistemas na Descomplica (1° Período) <br>
+🎓› Faço faculdade de Analise e desenvolvimento de sistemas na Descomplica (2° Período) <br>
 🎓› Cursando Full-Stack na Rocketseat <br>
 🌎› Manaus-Amazonas<br>
 ›Com a faculdade EAD, posso estudar a qualquer momento e em qualquer lugar. Atualmente, dedico 100% do meu tempo aos estudos.
