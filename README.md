@@ -4,6 +4,7 @@
 🎓› Cursando Full-Stack na Rocketseat <br>
 🌎› Manaus-Amazonas<br>
 ›Com a faculdade EAD, posso estudar a qualquer momento e em qualquer lugar. Atualmente, dedico 100% do meu tempo aos estudos.
+🌐>Visite meu WEBSITE›    https://website-frompaje.vercel.app/
 <h1  >💬⁝ Contatos <br> </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
