@@ -4,7 +4,6 @@
 🎓› Cursando Full-Stack na Rocketseat <br>
 🎓› Cursando Front-End Origamid <br>
 🌎› Manaus-Amazonas<br>
-›Com a faculdade EAD, posso estudar a qualquer momento e em qualquer lugar. Atualmente, dedico 100% do meu tempo aos estudos.
 🌐>Visite meu WEBSITE›   https://frompaje-dev.vercel.app/
 <h1  >💬⁝ Contatos <br> </h1>
 
