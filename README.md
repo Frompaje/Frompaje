@@ -4,7 +4,6 @@
 🎓› Cursando Full-Stack na Rocketseat <br>
 🎓› Cursando Front-End Origamid <br>
 🌎› Manaus-Amazonas<br>
-🌐>Visite meu WEBSITE›   https://frompaje-dev.vercel.app/
 <h1  >💬⁝ Contatos <br> </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
