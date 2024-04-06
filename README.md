@@ -1,8 +1,6 @@
 <h1 >Yan Edwards -  ツ </h1>
-🐭› Tenho 23 anos <br>
 🎓› Faço faculdade de Analise e desenvolvimento de sistemas na Descomplica (2° Período) <br>
-🎓› Cursando Full-Stack na Rocketseat <br>
-🎓› Cursando Front-End Origamid <br>
+🐭›23y<br>
 🌎› Manaus-Amazonas<br>
 <h1  >💬⁝ Contatos <br> </h1>
 
