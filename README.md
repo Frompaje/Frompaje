@@ -1,4 +1,4 @@
-<h1 >Yan Edwards - FULLSTACK ツ </h1>
+<h1 > Yan Edwards - FULLSTACK ツ </h1>
 
 🎓› I'm studying systems analysis and development at Descomplica (3° semester) <br>
 🐭›23y<br>
