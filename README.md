@@ -8,11 +8,11 @@
 
 <h1 >🧰⁝ Languages-Tools-Frameworks<br></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts)](https://skillicons.dev)
 
 <h1 >💻⁝ Learning<br></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma,Fastify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma,Fastify,react)](https://skillicons.dev)
 <br>
 
 ![Paje GitHub stats](https://github-readme-stats.vercel.app/api?username=Frompaje&show_icons=true&theme=dark) <br>
