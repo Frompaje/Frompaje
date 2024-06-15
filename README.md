@@ -19,6 +19,7 @@
 ![image](https://img.shields.io/badge/nestjs-6824a1?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-4A1A73?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/React-6824a1?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Tailwind_CSS-4A1A73?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 
 
