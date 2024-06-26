@@ -1,10 +1,10 @@
 <h1 > Yan Edwards - Backend  ツ </h1>
 
-🎓› I'm studying systems analysis and development at Descomplica (4° semester) <br>
-🐭›23y <br>
-🌎› Manaus-Amazonas<br>
 💻>Backend developer with 6 months' experience. In recent months, I've developed projects to improve my knowledge of Node.js. I'm currently part of the DEVHATT community, where I contribute to the Open Source Octopost project and help the community by answering questions, making dailies and reviewing prs. 
-https://github.com/devhatt/octopost-backend
+https://github.com/devhatt/octopost-backend <br>
+🎓› I'm studying systems analysis and development at Descomplica (4° semester) <br>
+🦝›23y <br>
+🌎› Manaus-Amazonas<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4A1A73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
 
