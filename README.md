@@ -2,7 +2,6 @@
 
 💻>Backend developer with 6 months' experience. In recent months, I've developed projects to improve my knowledge of <b>Node.js</b>. I'm currently part of the <b>DEVHATT community</b>, where <b>I contribute to the Open Source [Octopost](https://github.com/devhatt/octopost-backend)  project</b> and <b>help the community</b> by <b>answering questions</b>, <b>making dailies</b> and <b>reviewing prs</b>.  <br>
 🎓› I'm studying systems analysis and development at Descomplica (4° semester) <br>
-🦝›23y <br>
 🌎› Manaus-Amazonas<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4A1A73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
