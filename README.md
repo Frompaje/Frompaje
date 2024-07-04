@@ -10,6 +10,7 @@ in the Octopost Open Source project and I help the community by <b>answering que
 
 <h1 >🧰⁝ Languages-Tools-Frameworks<br></h1>
 
+![image](https://img.shields.io/badge/Java-6824a1?style=for-the-badge&logo=java&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/Node%20js-6824a1?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-4A1A73?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/fastify-6824a1?style=for-the-badge&logo=fastify&logoColor=white) <br>
