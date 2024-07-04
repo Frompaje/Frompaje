@@ -2,7 +2,7 @@
 
 💻› FullStack developer with 1 year's experience. In recent months, I've developed projects aimed at 
 improve my knowledge of <b>Node.js</b>. I'm currently part of the <b>DEVHATT</b> community, where I contribute 
-in the Octopost Open Source project and I help the community by <b>answering questions</b>, <b>making dailys</b> and <b>reviewing prs</b>. <br>
+in the Octopost/PetDex Open Source project and I help the community by <b>answering questions</b>, <b>making dailys</b> and <b>reviewing prs</b>. <br>
 🎓› I'm studying systems analysis and development at Descomplica (4° semester) <br>
 🌎› Manaus-Amazonas<br>
 
