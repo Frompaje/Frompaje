@@ -1,4 +1,4 @@
-<h1 >Edwards Yan - Backend  ツ </h1>
+<h1 >Edwards Yan - FullStack  ツ </h1>
 
 💻› Backend developer with 1 year's experience. In recent months, I've developed projects aimed at 
 improve my knowledge of <b>Node.js</b>. I'm currently part of the <b>DEVHATT</b> community, where I contribute 
