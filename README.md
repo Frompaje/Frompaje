@@ -11,7 +11,7 @@ in the Octopost/PetDex Open Source project and I help the community by <b>answer
 <h1 >🧰⁝ Languages-Tools-Frameworks<br></h1>
 
 ![HTML5](https://img.shields.io/badge/html5-6824a1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-4A1A73?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-4A1A73?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-6824a1?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-4A1A73?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/java-6824a1?style=for-the-badge&logo=openjdk&logoColor=white)
