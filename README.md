@@ -24,6 +24,7 @@ in the Octopost/PetDex Open Source project and I help the community by <b>answer
 ![image](https://img.shields.io/badge/Prisma-4A1A73?style=for-the-badge&logo=Prisma&logoColor=white)<br>
 ![image](https://img.shields.io/badge/Vite-6824a1?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-4A1A73?style=for-the-badge&logo=jest&logoColor=white)
+![Junit](https://img.shields.io/badge/Junit5-6824a1?style=for-the-badge&logo=junit5&logoColor=white)
 <br>
 
 
