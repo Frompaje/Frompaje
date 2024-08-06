@@ -13,8 +13,9 @@ in the Octopost/PetDex Open Source project and I help the community by <b>answer
 ![javascript](https://img.shields.io/badge/JavaScript-6824a1?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-4A1A73?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![HTML5](https://img.shields.io/badge/html5-6824a1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-4A1A73?style=for-the-badge&logo=css3&logoColor=white)<br>
-![image](https://img.shields.io/badge/Node%20js-6824a1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-4A1A73?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-6824a1?style=for-the-badge&logo=react&logoColor=white)<br>
+ ![image](https://img.shields.io/badge/Node%20js-6824a1?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-4A1A73?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-6824a1?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/fastify-4A1A73?style=for-the-badge&logo=fastify&logoColor=white) <br>
