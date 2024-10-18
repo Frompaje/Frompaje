@@ -12,7 +12,8 @@
 ![HTML5](https://img.shields.io/badge/html5-0b2b26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-235347?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0b2b26?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-235347?style=for-the-badge&logo=react&logoColor=white)<br>
+![React](https://img.shields.io/badge/React-235347?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-0b2b26?style=for-the-badge&logo=nextdotjs&logoColor=white)<br>
  ![image](https://img.shields.io/badge/Node%20js-0b2b26?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-235347?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-0b2b26?style=for-the-badge&logo=nestjs&logoColor=white)
