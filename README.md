@@ -18,13 +18,10 @@
 ![image](https://img.shields.io/badge/Express%20js-d71c23?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-7c1014?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/fastify-d71c23?style=for-the-badge&logo=fastify&logoColor=white) <br>
-![Java](https://img.shields.io/badge/java-7c1014?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-d71c23?style=for-the-badge&logo=spring&logoColor=white)<br>
 ![image](https://img.shields.io/badge/PostgreSQL-7c1014?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![image](https://img.shields.io/badge/Prisma-d71c23?style=for-the-badge&logo=Prisma&logoColor=white)<br>
 ![image](https://img.shields.io/badge/Vite-7c1014?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-d71c23?style=for-the-badge&logo=jest&logoColor=white)
-![Junit](https://img.shields.io/badge/Junit5-7c1014?style=for-the-badge&logo=junit5&logoColor=white)
 <br>
 
 
