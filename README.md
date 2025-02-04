@@ -1,5 +1,5 @@
 <h1 >Edwards Yan - FullStack  ツ </h1>
-🐸› FullStack developer with 2 year's experience. <br>
+🐸› FullStack developer with 1 year's experience. <br>
 🎓› I'm studying systems analysis and development at Descomplica (4° semester) <br>
 🌎› Manaus-Amazonas<br>
 
