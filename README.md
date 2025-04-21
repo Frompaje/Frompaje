@@ -1,5 +1,5 @@
 <h1 >Edwards Yan - FullStack  ツ </h1>
-🌎› Manaus-Amazonas<br>
+🌎› Manaus-Amazonas<br> <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-253F7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
 
