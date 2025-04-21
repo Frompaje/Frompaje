@@ -4,6 +4,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-253F7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-edwards-03924a23b/) 
 
+
+<h1>🚀⁝ Working with</h1>
+
+![Laravel](https://img.shields.io/badge/Laravel-253F7C?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue 2](https://img.shields.io/badge/Vue%202-0F193E?style=for-the-badge&logo=vue.js&logoColor=white)
+
+
 <h1 >💻⁝ Languages-Tools-Frameworks<br></h1>
 
 ![javascript](https://img.shields.io/badge/JavaScript-0F193E?style=for-the-badge&logo=javascript&logoColor=white)
