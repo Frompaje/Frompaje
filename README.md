@@ -1,4 +1,4 @@
-<h1> Software Developer - FullStack  ツ </h1>
+<h1> Software Developer - FullStack ツ </h1>
 <h2>💻⁝ Working with</h2>
 
 ![Laravel](https://img.shields.io/badge/Laravel-253F7C?style=for-the-badge&logo=laravel&logoColor=white)
