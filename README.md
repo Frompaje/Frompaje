@@ -1,5 +1,5 @@
 <h1> Software Developer - FullStack ツ </h1>
-<h2 >📘⁝ Languages-Tools-Frameworks<br></h2>
+
 
 ![React](https://img.shields.io/badge/React-253F7C?style=for-the-badge&logo=react&logoColor=white) 
 ![image](https://img.shields.io/badge/Node%20js-0F193E?style=for-the-badge&logo=nodedotjs&logoColor=white) <br>
